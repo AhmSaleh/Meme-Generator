@@ -1,0 +1,22 @@
+.header {
+  height: 70px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+
+  padding: 20px;
+
+  background: linear-gradient(90deg, #a7b2bd 1.18%, #1676c5 100%);
+  color: #e3d8d8;
+}
+
+.img {
+  height: 50px;
+  left: 20px;
+  top: 19px;
+  border-radius: 0px;
+}
+
+.quote {
+  margin-left: auto;
+}
